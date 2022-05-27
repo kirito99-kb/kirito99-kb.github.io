@@ -1,0 +1,43 @@
+body{
+    background:url(l.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    
+    color: white;
+    position: absolute;
+    top: 35%;
+    left:40%;
+}
+
+.container h1{
+    font-size: 40px;
+}
+
+.box{
+    border: 2px solid ;
+    width:100%;
+}
+
+.box input{
+    background: none;
+    border: 2px solid;
+    width:75%;
+    margin:2px 48px;
+}
+
+.btn{
+    color:white;
+    cursor:pointer;
+    outline:none;
+    margin: 12px 0;
+    padding: 10px 21px;
+    border: 2px solid;
+    border-radius:10px;
+    font-size:18px;
+    background: none;
+    font-weight:bold;
+
+
+}
